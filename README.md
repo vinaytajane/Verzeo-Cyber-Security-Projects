@@ -1,7 +1,11 @@
 # Verzeo Cyber Security Projects
 
-This repository contains a collection of minor and major project reports completed during the cybersecurity internship at Verzeo. These projects showcase practical applications and demonstrate the skills and knowledge gained in the field of cybersecurity.
 
-## License
+### Description:
 
-The content in this repository is provided under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the material in accordance with the terms of the license.
+"This repository showcases various cyber security projects developed during internship at Verzeo. Each project demonstrates different aspects of cyber security, including threat detection, vulnerability assessment, and secure coding practices."
+
+### Internship Certificate
+![Internship Completion Certificate](./Assets/Internship%20Certificate.jpg)
+
+---
